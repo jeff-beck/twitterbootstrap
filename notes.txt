@@ -1,0 +1,8 @@
+A16 responsive design
+
+1) use only twitter-bootsrap ?
+2) we have to write our own resonsive style sheet(s) 
+3) html + images from adaptive_design
+4) css from adaptive_design?
+5) widgets are from twitter-bootsrap (buttons, icons, ...)
+6) make sure correct twitter-bootsrap is downloaded

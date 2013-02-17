@@ -1,0 +1,57 @@
+/*!
+ *
+ * A few things I could not do with twitter-bootstrap alone.
+ *
+ */
+ 
+body {
+	background: #0d1424 url(images/body-bg.jpg) no-repeat center top;
+	font: .81em/150% Arial, Helvetica, sans-serif;
+}
+
+.rounded {
+	-webkit-border-radius: 8px;
+	-moz-border-radius: 8px;
+	border-radius: 8px;
+}
+
+.article {
+	margin: 30px 0 30px;
+	padding: 20px 35px;
+}
+
+.white {
+	background: #fff;
+}
+
+.sidebar-above {
+	display: block;
+	position: relative;
+	margin: 30px 0 30px;
+	padding: 10px 20px;
+}
+
+.sidebar-below {
+	display: block;
+	position: relative;
+	margin: 30px 0 30px;
+	padding: 10px 20px;
+}
+
+.sidebar-below .flickr_badge_image {
+	margin-top: 10px;
+}
+
+.sidebar-below .flickr_badge_image img {
+	width: 48px;
+	height: 48px;
+	margin-right: 12px;
+	margin-bottom: 12px;
+	float: left;
+}
+
+.video embed,.video object,.video iframe {
+	width: 100%;
+	height: auto;
+	min-height: 300px;
+}
